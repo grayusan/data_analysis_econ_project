@@ -1,0 +1,1 @@
+In this analysis project, we will use the oil price data(https://www.kaggle.com/mabusalah/brent-oil-prices) and daily positive covid cases (https://covidtracking.com/data/download) to research the correlation between the two datapoints. 
