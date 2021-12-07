@@ -1,1 +1,1 @@
-In this analysis project, we will use the oil price data(https://www.kaggle.com/mabusalah/brent-oil-prices) and daily positive covid cases (https://covidtracking.com/data/download) to research the correlation between the two datapoints. 
+In this analysis project, we will use COVID cases data, oil prices, and vaccine stock prices to research the correlation between those pieces of data.
