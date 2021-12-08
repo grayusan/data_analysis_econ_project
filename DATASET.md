@@ -17,3 +17,6 @@ License:
 
 
 The gasoline price data is from US Energy Information Administration, on <https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPM0_PTE_NUS_DPG&f=W>.
+
+The price for Pfizer stock is sourced on Yahoo Finance:
+<https://finance.yahoo.com/quote/PFE/history?period1=1544140800&period2=1638835200&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true>.
